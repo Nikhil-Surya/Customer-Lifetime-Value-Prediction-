@@ -1,17 +1,5 @@
 # Snowpark Python - TPC DS  - Customer Lifetime Value
-[![author](https://img.shields.io/badge/Author-Rayden_Xu-blue.svg)](https://www.linkedin.com/in/rundong-xu-269012230/) 
-[![author](https://img.shields.io/badge/Author-Binghui_Lai-blue.svg)](https://www.linkedin.com/in/binghui-lai/) 
-[![author](https://img.shields.io/badge/Author-Ziwei_Duan-blue.svg)](https://www.linkedin.com/in/ziwei-duan-create/) 
 
-## Quick Portral
-### 
-| **--->** [1.Script](TCP-Analysis-writeCode.ipynb) |
-
-| **--->** [2.Front-end](Customer_Lifetime_Value.py) |
-
-| **--->** [3.Website by Streamlit](https://dduan-zw-tcp-ds-big-data-explore-customer-lifetime-value-izm9gb.streamlit.app/) |
-
-| **--->** [4.Codelab](https://dduan-zw-tcp-ds-big-data-explore-customer-lifetime-value-izm9gb.streamlit.app/) |
 ### Tech Stack
 - Python
 - Snowflake SQL
